@@ -22,7 +22,6 @@
 
 **You can use `timer.sh`.it's works good in terminal.**
 
-
-
+[**Also Thanks to Behzad Moradi & Socanacademy**](https://goo.gl/N4bu8w)
 
 Best Regards , MMG
