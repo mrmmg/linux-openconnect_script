@@ -19,6 +19,7 @@
 7.For exit use `CTRL+C.`
 
 **Notes : I want to add a timer to this script but i can't! If anyone can add timer to this, fork and do it!(or edit files and put it in issues)**
+
 **You can use `timer.sh`.it's works good in terminal.**
 
 
