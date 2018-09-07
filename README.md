@@ -10,7 +10,7 @@
 
 3.Change openconnect.sh : Type your username and password
 
-4.Open a termial and type `apt-get install expect` and install it (for debian base system link Ubuntu. you can install it for non-debian system too!)
+4.Open a termial and type `apt-get install expect` and install it (for debian base system like Ubuntu. you can install it for non-debian system too!)
 
 5.Open a terminal and type `sudo su root` (openconnect needs root user for working)
 
